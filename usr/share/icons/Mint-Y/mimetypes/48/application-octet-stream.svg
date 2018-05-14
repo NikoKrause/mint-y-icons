@@ -26,14 +26,18 @@
      inkscape:window-width="1920"
      inkscape:window-height="1026"
      id="namedview37"
-     showgrid="true"
-     inkscape:zoom="13.906433"
-     inkscape:cx="25.620228"
-     inkscape:cy="21.444119"
+     showgrid="false"
+     inkscape:zoom="9.8333331"
+     inkscape:cx="16.693331"
+     inkscape:cy="26.586515"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg3901" />
+     inkscape:current-layer="svg3901">
+    <inkscape:grid
+       type="xygrid"
+       id="grid12397" />
+  </sodipodi:namedview>
   <defs
      id="defs3903">
     <linearGradient
@@ -177,17 +181,9 @@
      id="path4160"
      d="m 7,1.0000001 c 7.791126,0 33.999959,0.00274 33.999959,0.00274 L 41,44 C 41,44 18.333334,44 7,44 7,29.666666 7,15.333333 7,1 z" />
   <path
-     style="fill:none;stroke:url(#linearGradient3106);stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
-     id="rect6741-1"
-     d="m 40.5,43.5 -33,0 0,-41.9999998 33,0 z" />
-  <path
      style="fill:none;stroke:url(#linearGradient3170);stroke-width:0.99992192;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
      id="path4160-6-1"
      d="m 6.4999605,0.4999623 c 8.0202885,0 35.0000415,0.00298 35.0000415,0.00298 l 3.7e-5,43.9970957 c 0,0 -23.333385,0 -35.0000785,0 0,-14.666738 0,-29.333326 0,-43.9998923 z" />
-  <path
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.98542744;marker:none;enable-background:accumulate"
-     id="rect3137-6-5-5-1"
-     d="m 32,36 4,0 0,4 -4,0 z m -8,0 4,0 0,4 -4,0 z m -8,0 4,0 0,4 -4,0 z m 12,-4 4,0 0,4 -4,0 z m -8,0 4,0 0,4 -4,0 z m -8,0 4,0 0,4 -4,0 z m 20,-4 4,0 0,4 -4,0 z m -8,0 4,0 0,4 -4,0 z m -8,0 4,0 0,4 -4,0 z m 12,-4 4,0 0,4 -4,0 z m -8,0 4,0 0,4 -4,0 z m -8,0 4,0 0,4 -4,0 z m 20,-4 4,0 0,4 -4,0 z m -8,0 4,0 0,4 -4,0 z m -8,0 4,0 0,4 -4,0 z m 12,-4 4,0 0,4 -4,0 z m -8,0 4,0 0,4 -4,0 z m -8,0 4,0 0,4 -4,0 z m 20,-4 4,0 0,4 -4,0 z m -8,0 4,0 0,4 -4,0 z m -8,0 4,0 0,4 -4,0 z m 12,-4 4,0 0,4 -4,0 z m -8,0 4,0 0,4 -4,0 z m -8,0 4,0 0,4 -4,0 z" />
   <path
      style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.98542744;marker:none;enable-background:accumulate"
      id="rect3137-6-5-5"
