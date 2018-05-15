@@ -13,7 +13,7 @@
    height="32"
    id="svg3182"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="application-x-deb.svg">
+   sodipodi:docname="application-vnd.debian.binary-package.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -23,9 +23,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview2260" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1026"
+     id="namedview2260"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="16.271186"
+     inkscape:cy="16"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3182" />
   <defs
      id="defs3184">
     <linearGradient
@@ -164,29 +172,10 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <rect
-     width="22.100021"
-     height="2"
-     x="4.9499893"
-     y="29"
-     id="rect2879"
-     style="opacity:0.15;fill:url(#linearGradient3027);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
-  <path
-     d="m 4.9499887,29.000086 c 0,0 0,1.99989 0,1.99989 -0.806615,0.0038 -1.950002,-0.448074 -1.950002,-1.000074 0,-0.552 0.900121,-0.999816 1.950002,-0.999816 z"
-     id="path2881"
-     style="opacity:0.15;fill:url(#radialGradient3024);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
-  <path
-     d="m 27.050011,29.000086 c 0,0 0,1.99989 0,1.99989 0.806614,0.0038 1.950002,-0.448074 1.950002,-1.000074 0,-0.552 -0.900122,-0.999816 -1.950002,-0.999816 z"
-     id="path2883"
-     style="opacity:0.15;fill:url(#radialGradient3021);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible" />
   <path
      d="m 5,1 c 5.041316,0 21.999973,0.00179 21.999973,0.00179 L 27,29 C 27,29 12.333334,29 5,29 5,19.666667 5,10.333336 5,1.0000041 z"
      id="path4160-3"
-     style="fill:url(#linearGradient3016);fill-opacity:1;stroke:none;display:inline" />
-  <path
-     d="m 26.5,28.5 -21,0 0,-27 21,0 z"
-     id="rect6741-1"
-     style="fill:none;stroke:url(#linearGradient3013);stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+     style="fill:#fafafa;fill-opacity:1;stroke:none;display:inline" />
   <path
      style="fill:none;stroke:url(#linearGradient3148);stroke-width:0.9999218;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
      id="path4160-6-1"
